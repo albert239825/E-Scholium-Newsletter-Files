@@ -79,6 +79,8 @@
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
             Click on the image or button to go their respective articles or click <a class="text-link" href="http://www.e-scholium.org/2021/2/">here</a> to go directly to the lastest edition on the escholium website
+            <br/><br/>
+            Post Note: Much of this email's interactive features are not supported by gmail unfortunately, if you want to experience them in action, click <a class="text-link" href="{{ mirror }}">here</a>.
           </mj-text>
           <!-- Start of articles -->
           <mj-divider border-style="dashed" border-color="grey" border-width="3px" />
