@@ -202,7 +202,7 @@
             <a style="color: #445566" href="{{ mirror }}">View this email in your browser</a>
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            You are receiving this email because you are subscribed to the E-Scholium Newsletter
+            You are receiving this email because you are subscribed to the e-Scholium Newsletter
           </mj-text>
         </mj-column>
       </mj-section>
