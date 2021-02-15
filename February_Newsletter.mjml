@@ -85,7 +85,7 @@
           <!-- Start of articles -->
           <mj-divider border-style="dashed" border-color="grey" border-width="3px" />
       </mj-section>
-      <!-- Article 12 Columns (each section is a column) -->
+      <!-- Article 1 2 Columns (each section is a column) -->
       <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
         <mj-column width="45%">
           <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-10.24.34-PM.png" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year" alt="" />
@@ -94,7 +94,7 @@
           <mj-text color="#637381">
             <strong>EA updates COVID-19 plans in the new year</strong>
             <br />
-            Screening, testing, and dining plans on EA’s campus have all strengthened in the new year, in response to holiday traveling and updating data from administrative consultation...
+            Screening, testing, and dining plans on EA’s campus have all strengthened in the new year, in response to holiday traveling and updating data from administrative consultation ...
           </mj-text>
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year/">Article</mj-button>
         </mj-column>
@@ -105,7 +105,7 @@
           <mj-text color="#637381">
             <strong>EA students offer insight on past Capitol riots</strong>
             <br />
-            British forces broke into the US Capitol and burned it to the ground on August 24, 1814 during the war of 1812. 207 years later, another attack against the seat of American democracy...
+            British forces broke into the US Capitol and burned it to the ground on August 24, 1814 during the war of 1812. 207 years later, another attack against the seat of American democracy ...
           </mj-text>
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/07/ea-students-offer-insight-on-past-capitol-riots/">Article</mj-button>
         </mj-column>
@@ -116,15 +116,15 @@
       <!-- Article 3 -->
       <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
         <mj-column width="45%">
-          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-10.24.34-PM.png" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year" alt="" />
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/01/EA-Dance-Option-1-Emily-Staid.jpg" href="http://www.e-scholium.org/2021/02/08/covid-restrictions-has-forced-dance-to-adapt-to-the-changing-times/" alt="" />
         </mj-column>
         <mj-column width="55%">
           <mj-text color="#637381">
-            <strong>EA updates COVID-19 plans in the new year</strong>
+            <strong>COVID Restrictions Has Forced Dance to Adapt to the Changing Times</strong>
             <br />
-            Screening, testing, and dining plans on EA’s campus have all strengthened in the new year, in response to holiday traveling and updating data from administrative consultation...
+            The 2021 winter dance season will look very different from years past due to COVID-19 precautions. The dance team has had to adapt to a series of changes to the regular winter season ...
           </mj-text>
-          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year/">Article</mj-button>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/08/covid-restrictions-has-forced-dance-to-adapt-to-the-changing-times/">Article</mj-button>
         </mj-column>
       </mj-section>
       <!-- Beginning of Artist & Athletes of the month -->
