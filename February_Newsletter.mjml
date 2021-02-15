@@ -202,7 +202,9 @@
             <a style="color: #445566" href="{{ mirror }}">View this email in your browser</a>
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            You are receiving this email because you are subscribed to the e-Scholium Newsletter
+            This email was sent to {{ contact.EMAIL }} 
+            <br />
+            You received this email because you are a valued supporter of student journalism at The Episcopal Academy
           </mj-text>
         </mj-column>
       </mj-section>
