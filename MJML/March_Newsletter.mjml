@@ -1,0 +1,212 @@
+<mjml>
+  <mj-head>
+    <mj-title>February Edition</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="15px" color="#000000" line-height="20px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://i.imgur.com/Xvw0vjq.png" icon-unwrapped-url="https://i.imgur.com/KKHenWa.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .title_image {
+        border-style: solid;
+        border-color: black;
+        border-width: 2px;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="650px">
+    <!-- Heading and Title -->
+    <!-- Full width makes it so that the blue goes all the way around -->
+    <mj-section full-width="full-width" background-color="#104787" padding-bottom="0">
+      <mj-column width="100%">
+        <!-- E-scholium logo -->
+        <mj-image src="http://www.e-scholium.org/wp-content/uploads/2020/08/cropped-Logo.png" alt="" align="center" width="150px" href="http://www.e-scholium.org" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="5px">
+          THE EPISCOPAL ACADEMY Scholium
+          <br />
+          <span style="color: #979797; font-weight: normal">—</span>
+        </mj-text>
+        <mj-text color="#827BED" align="center" font-size="16px" padding-top="0px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="10px">
+          March Edition
+        </mj-text>
+        <!-- Title Image -->
+        <mj-image css-class="title_image" src="http://www.e-scholium.org/wp-content/uploads/2021/03/Knitting-Club-Option-3-Maggie-Lo.jpg" alt="" padding="0" href="http://www.e-scholium.org" />
+      </mj-column>
+    </mj-section>
+    <!-- All the body (Articles) -->
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- Introduction -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Scholium is Back for March!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <i>In Like a Lion <br>
+            Out Like A Lamb <br></i>
+            <br>
+            Make it through the March's bipolar weather with a little help from your best friend, <em><strong>Scholium!</strong></em>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Highlights of our March Issue include:
+            <ul>
+              <li style="padding-bottom: 10px"><strong>Community Service:</strong> How the EA Community stays helpful in this day and age</li>
+              <li><strong>School Days:</strong> Is the snow day going away? More Academic days?</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            Click on the image or button to go their respective articles or click <a class="text-link" href="http://www.e-scholium.org/2021/3/">here</a> to go directly to the lastest edition on the escholium website
+          </mj-text>
+          <!-- Start of articles -->
+          <mj-divider border-style="dashed" border-color="grey" border-width="3px" />
+      </mj-section>
+      <!-- E-Scholium Exclusive Video -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-raw>
+            <iframe width="615" height="298" src="https://www.youtube.com/embed/lwXQBUGnCGM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+      <!-- Article 1 2 Columns (each section is a column) -->
+      <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/03/New-restrictions-Ashley-Kennedy-1.jpg" alt="" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>EA Administration Develops New COVID-19 Rules for Upcoming Academic Year</strong>
+            <br>
+            As FDA approved vaccines roll out and cases start decreasing, Episcopal is deciding what guidelines will be implemented in response to COVID-19 for the upcoming academic year. 
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/09/ea-administration-develops-new-covid-19-rules-for-upcoming-academic-year/">Article</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- article 2 -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>Episcopal Implements Additional Academic Days at the End of the Year</strong>
+            <br />
+            The 2020-2021 academic school year, which began on September 1, 2020, will extend through June 4, 2021, due to the pandemic and the elimination of May term. This unusually long school year will force students and teachers to adapt to a prolonged learning plan...           
+            </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/09/episcopal-implements-additional-academic-days-at-the-end-of-the-year/">Article</mj-button>
+        </mj-column>
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/03/Extra-School-Days.jpg" alt="" />
+        </mj-column>
+      </mj-section>
+      <!-- Article 3 -->
+      <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/03/Mutt-Madness-Cecilia-Murphy.jpg" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>Beloved Mutt Madness tradition continues despite COVID</strong>
+            <br />
+            Throughout the month of March, the EA Community Service Corps is holding Mutt Madness, an annual event that raises awareness and donations for the Providence Animal Center. This opportunity allows students to buy a NCAA bracket for the March Madness basketball tournament and have their proceeds go to a local animal shelter. 
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/beloved-mutt-madness-tradition-continues-despite-covid/">Article</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- Divider -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="2px" />
+        </mj-column>
+      </mj-section>
+      <!-- Beginning of Artist & Athletes of the month -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <!-- Girl's Athlete of the Month -->
+        <mj-column width="33%">
+          <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Girls-Athlete-of-the-Month-Kelly-Mekoue-pic-from-Kelly-Mekoue-480x320.jpg"/>
+          <mj-text color="#637381">
+          <strong>Girls Athlete of the Month: Laurielle Kelly Feuzeu Mekoue ‘22</strong>
+          <br>
+          As illustrated through her 27 broken records, numerous awards, and seven years of participating in the Junior Olympics, Laurielle Kelly Feuzeu Mekoue ‘22 is a talented and dedicated swimmer....
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/girls-athlete-of-the-month-laurielle-kelly-feuzeu-mekoue-22/">Article</mj-button>
+        </mj-column>
+        <!-- Artist of the Month -->
+        <mj-column width="33%">
+          <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Artist-of-the-Month-1-Will-Sargeant-Ashley-Kennedy.jpg"/>
+          <mj-text color="#637381">
+          <strong>Artist of The Month: William Sargent ‘22</strong>
+          <br>
+          William Sargent ‘22 is February’s Artist of the Month for his prowess and dedication to visual art. Head of the Art Department and Sargent’s teacher, David Sigel...
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/artist-of-the-month-william-sargent-22/">Article</mj-button>
+        </mj-column>
+        <!-- Boy's Athlete of the Month -->
+        <mj-column width="33%">
+          <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Boys-Athlete-of-the-Month-Bradley-French-Bradley-French.jpg"/>
+          <mj-text color="#637381">
+          <strong>Boy’s Athlete of the Month: Bradley French ‘21</strong>
+          <br>
+          Concluding his fifth year on the Episcopal Academy varsity ice hockey team as co-captain, Bradley French ’21 has shown perseverance and poise throughout his EA hockey career...
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/boys-athlete-of-the-month-bradley-french-21/">Article</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Footer of the newsletter (Unsubscribe & Social media) -->
+    <mj-wrapper full-width="full-width">
+      <!-- Social Media -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/escholium1785/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/escholium" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="http://www.e-scholium.org" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a style="color: #445566" href="{{ mirror }}">View this email in your browser</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            This email was sent to {{ contact.EMAIL }} 
+            <br />
+            You received this email because you are a valued supporter of student journalism at The Episcopal Academy
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Unsubscribe -->
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="{{ unsubscribe }}">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>

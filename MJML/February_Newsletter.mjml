@@ -1,0 +1,226 @@
+<mjml>
+  <mj-head>
+    <mj-title>February Edition</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="15px" color="#000000" line-height="20px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://i.imgur.com/Xvw0vjq.png" icon-unwrapped-url="https://i.imgur.com/KKHenWa.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .title_image {
+        border-style: solid;
+        border-color: black;
+        border-width: 2px;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="650px">
+    <!-- Heading and Title -->
+    <!-- Full width makes it so that the blue goes all the way around -->
+    <mj-section full-width="full-width" background-color="#104787" padding-bottom="0">
+      <mj-column width="100%">
+        <!-- E-scholium logo -->
+        <mj-image src="http://www.e-scholium.org/wp-content/uploads/2020/08/cropped-Logo.png" alt="" align="center" width="150px" href="http://www.e-scholium.org" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="5px">
+          THE EPISCOPAL ACADEMY Scholium
+          <br />
+          <span style="color: #979797; font-weight: normal">—</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="16px" padding-top="0px" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="10px">
+          February NewsLetter
+        </mj-text>
+        <!-- Title Image -->
+        <mj-image css-class="title_image" src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-9.18.09-PM.png" alt="" padding="0" href="http://www.e-scholium.org" />
+      </mj-column>
+    </mj-section>
+    <!-- All the body (Articles) -->
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- Introduction -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Scholium is back in the 2021!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Hello All,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Happy long weekend! As I know many of you must have been thinking after the release of the print issue - Where is the newsletter? Worry not becuase the newsletter is back with a new appearence makeover!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Highlights of our February Issue include:
+            <ul>
+              <li style="padding-bottom: 10px"><strong>School Updates:</strong> What are the rules and what do they mean in the new year.</li>
+              <li style="padding-bottom: 10px"><strong>Arts:</strong> See how Episcopal's musicians and artists continue to hone their craft despite the challenging cirumstances</li>
+              <li><strong>Diversity & Inclusion:</strong> EA's new initiatives to promote diversity in the community.</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            Click on the image or button to go their respective articles or click <a class="text-link" href="http://www.e-scholium.org/2021/2/">here</a> to go directly to the lastest edition on the escholium website
+            <br/><br/>
+            Post Note: Much of this email's interactive features are not supported by gmail unfortunately, if you want to experience them in action, click <a class="text-link" href="{{ mirror }}">here</a>.
+          </mj-text>
+          <!-- Start of articles -->
+          <mj-divider border-style="dashed" border-color="grey" border-width="3px" />
+      </mj-section>
+      <!-- Article 1 2 Columns (each section is a column) -->
+      <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-10.24.34-PM.png" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year" alt="" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>EA updates COVID-19 plans in the new year</strong>
+            <br />
+            Screening, testing, and dining plans on EA’s campus have all strengthened in the new year, in response to holiday traveling and updating data from administrative consultation ...
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/07/ea-updates-covid-19-plans-in-the-new-year/">Article</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- article 2 -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>EA students offer insight on past Capitol riots</strong>
+            <br />
+            British forces broke into the US Capitol and burned it to the ground on August 24, 1814 during the war of 1812. 207 years later, another attack against the seat of American democracy ...
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/07/ea-students-offer-insight-on-past-capitol-riots/">Article</mj-button>
+        </mj-column>
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/02/1812-Capitol-Riot.jpg" href="http://www.e-scholium.org/2021/02/07/ea-students-offer-insight-on-past-capitol-riots/" alt="" />
+        </mj-column>
+      </mj-section>
+      <!-- Article 3 -->
+      <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
+        <mj-column width="45%">
+          <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/01/EA-Dance-Option-1-Emily-Staid.jpg" href="http://www.e-scholium.org/2021/02/08/covid-restrictions-has-forced-dance-to-adapt-to-the-changing-times/" alt="" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text color="#637381">
+            <strong>COVID Restrictions Has Forced Dance to Adapt to the Changing Times</strong>
+            <br />
+            The 2021 winter dance season will look very different from years past due to COVID-19 precautions. The dance team has had to adapt to a series of changes to the regular winter season ...
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/02/08/covid-restrictions-has-forced-dance-to-adapt-to-the-changing-times/">Article</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- Beginning of Artist & Athletes of the month -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="2px" />
+        </mj-column>
+      </mj-section>
+      <!-- Image Carousel -->
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
+          <mj-carousel>
+            <mj-carousel-image src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-8.03.00-PM.png" href="http://www.e-scholium.org/2021/02/07/girls-athlete-of-the-month-jill-mcentee-21" />
+            <mj-carousel-image src="http://www.e-scholium.org/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-9.34.28-PM.png" href="http://www.e-scholium.org/2021/02/07/boys-athlete-of-the-month-jack-christian-21" />
+            <mj-carousel-image src="http://www.e-scholium.org/wp-content/uploads/2021/01/Artist-of-the-Month-Option-2-Felix-Zhu-scaled.jpg" href="http://www.e-scholium.org/2021/02/08/artist-of-the-month-felix-zhu-22" />
+          </mj-carousel>
+        </mj-column>
+      </mj-section>
+      <!-- Accordian for more information about students of the month-->
+      <mj-section background-color="#ffffff" padding-left="30px" padding-right="30px">
+        <mj-column width="100%">
+          <mj-accordion>
+            <!-- Girl's Athlete -->
+            <mj-accordion-element>
+              <mj-accordion-title>Girls Athlete of the Month: <strong>Jill McEntee ‘21</strong></mj-accordion-title>
+              <mj-accordion-text>
+                <span style="line-height:20px">
+                  “Whenever the girls put on the uniform and compete, they have Jill as the tip of the spear and I couldn’t be happier,” Coach John Goens can not hold back a smile as he describes the power that tri-sport athlete and February’s Girls Athlete of the Month Jill McEntee ‘21 brings to the track team.
+                  <!-- Double break for styling -->
+                  <br />
+                  <br />
+                  <a class="text_link" href="http://www.e-scholium.org/2021/02/07/girls-athlete-of-the-month-jill-mcentee-21/">Link to Article</a>
+                </span>
+              </mj-accordion-text>
+            </mj-accordion-element>
+            <mj-accordion-element>
+              <mj-accordion-title>Boys Athlete of the Month: <strong>Jack Christian '21</strong></mj-accordion-title>
+              <mj-accordion-text>
+                <span style="line-height:20px">
+                  A talented swimmer and leader in and out of the pool, Jack Christian ‘21 is February’s Boys Athlete of the Month. Through practice and honing his skills, Christian has broken records and led the swim team to many victories. As a captain, Jack pushes the EA swim team to reach its full potential.
+                  <br />
+                  <br />
+                  <a class="text_link" href="http://www.e-scholium.org/2021/02/07/boys-athlete-of-the-month-jack-christian-21/">Link to Article</a>
+                </span>
+              </mj-accordion-text>
+            </mj-accordion-element>
+            <mj-accordion-element>
+              <mj-accordion-title>Artist of the Month: <strong>Felix Zhu ‘22</strong></mj-accordion-title>
+              <mj-accordion-text>
+                <span style="line-height:20px">
+                  A member of Episcopal’s band program since seventh grade, Felix Zhu is February’s artist of the month. Zhu plays clarinet in both the concert and jazz band. He discusses his involvement in music stating, “I play in concert [band] and jazz band. I used to play clarinet in jazz band, but now I play piano.”
+                  <br />
+                  <br />
+                  <a class="text_link" href="http://www.e-scholium.org/2021/02/08/artist-of-the-month-felix-zhu-22/">Link to Article</a>
+                </span>
+              </mj-accordion-text>
+            </mj-accordion-element>
+          </mj-accordion>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Footer of the newsletter (Unsubscribe & Social media) -->
+    <mj-wrapper full-width="full-width">
+      <!-- Social Media -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/escholium1785/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/escholium" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="http://www.e-scholium.org" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a style="color: #445566" href="{{ mirror }}">View this email in your browser</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            This email was sent to {{ contact.EMAIL }} 
+            <br />
+            You received this email because you are a valued supporter of student journalism at The Episcopal Academy
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Unsubscribe -->
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="{{ unsubscribe }}">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
