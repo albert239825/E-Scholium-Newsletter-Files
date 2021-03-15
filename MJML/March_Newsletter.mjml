@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>February Edition</mj-title>
-    <mj-preview>Pre-header Text</mj-preview>
+    <mj-title>March Edition</mj-title>
+    <mj-preview>Check Out Our New Exclusive Content!</mj-preview>
     <mj-attributes>
       <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
       <mj-text font-weight="400" font-size="15px" color="#000000" line-height="20px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
@@ -34,9 +34,10 @@
         border-width: 2px;
       }
     </mj-style>
-
   </mj-head>
+
   <mj-body background-color="#E7E7E7" width="650px">
+
     <!-- Heading and Title -->
     <!-- Full width makes it so that the blue goes all the way around -->
     <mj-section full-width="full-width" background-color="#104787" padding-bottom="0">
@@ -55,8 +56,10 @@
         <mj-image css-class="title_image" src="http://www.e-scholium.org/wp-content/uploads/2021/03/Knitting-Club-Option-3-Maggie-Lo.jpg" alt="" padding="0" href="http://www.e-scholium.org" />
       </mj-column>
     </mj-section>
+
     <!-- All the body (Articles) -->
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+
       <!-- Introduction -->
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
@@ -82,12 +85,28 @@
           <!-- Start of articles -->
           <mj-divider border-style="dashed" border-color="grey" border-width="3px" />
       </mj-section>
+
       <!-- E-Scholium Exclusive Video -->
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%" padding-bottom="15px">
+          <mj-text align="center" font-size="20px" color="#212b35">
+          <strong>E-Scholium Exclusive Interview</storng>
+          </mj-text>
+        </mj-column>
+        <mj-column width="55%">
+          <mj-image src = "http://www.e-scholium.org/wp-content/uploads/2021/03/Lyall-Celebration.gif" href="http://www.e-scholium.org/2021/03/14/e-scholium-exclusive-interview-with-lyall-paterson"/>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text color="#212b35" font-size="18px" line-height="150%">
+            We’re so happy to announce the first of hopefully many pieces of E-Scholium exclusive content. With the shift toward digital media, it is only fitting that scholium, with its long and storied history, start moving beyond solely a print medium. We hope you enjoy this interview with EA Squash’s new charismatic men’s coach, Lyall Paterson.
+          </mj-text>
+          <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/14/e-scholium-exclusive-interview-with-lyall-paterson/">Video Post</mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- Divider -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         <mj-column width="100%">
-          <mj-raw>
-            <iframe width="615" height="298" src="https://www.youtube.com/embed/lwXQBUGnCGM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </mj-raw>
+          <mj-divider border-color="#DFE3E8" border-width="2px" />
         </mj-column>
       </mj-section>
       <!-- Article 1 2 Columns (each section is a column) -->
@@ -104,6 +123,7 @@
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/09/ea-administration-develops-new-covid-19-rules-for-upcoming-academic-year/">Article</mj-button>
         </mj-column>
       </mj-section>
+
       <!-- article 2 -->
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         <mj-column width="55%">
@@ -118,6 +138,7 @@
           <mj-image align="center" src="http://www.e-scholium.org/wp-content/uploads/2021/03/Extra-School-Days.jpg" alt="" />
         </mj-column>
       </mj-section>
+
       <!-- Article 3 -->
       <mj-section background-color="#ffffff" padding-left="10px" padding-right="10px" padding-top="0px">
         <mj-column width="45%">
@@ -132,14 +153,17 @@
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/beloved-mutt-madness-tradition-continues-despite-covid/">Article</mj-button>
         </mj-column>
       </mj-section>
+
       <!-- Divider -->
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         <mj-column width="100%">
           <mj-divider border-color="#DFE3E8" border-width="2px" />
         </mj-column>
       </mj-section>
+
       <!-- Beginning of Artist & Athletes of the month -->
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+
         <!-- Girl's Athlete of the Month -->
         <mj-column width="33%">
           <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Girls-Athlete-of-the-Month-Kelly-Mekoue-pic-from-Kelly-Mekoue-480x320.jpg"/>
@@ -150,6 +174,7 @@
           </mj-text>
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/girls-athlete-of-the-month-laurielle-kelly-feuzeu-mekoue-22/">Article</mj-button>
         </mj-column>
+
         <!-- Artist of the Month -->
         <mj-column width="33%">
           <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Artist-of-the-Month-1-Will-Sargeant-Ashley-Kennedy.jpg"/>
@@ -160,6 +185,7 @@
           </mj-text>
           <mj-button background-color="#104787" href="http://www.e-scholium.org/2021/03/06/artist-of-the-month-william-sargent-22/">Article</mj-button>
         </mj-column>
+
         <!-- Boy's Athlete of the Month -->
         <mj-column width="33%">
           <mj-image src="http://www.e-scholium.org/wp-content/uploads/2021/03/Boys-Athlete-of-the-Month-Bradley-French-Bradley-French.jpg"/>
@@ -175,6 +201,7 @@
 
     <!-- Footer of the newsletter (Unsubscribe & Social media) -->
     <mj-wrapper full-width="full-width">
+
       <!-- Social Media -->
       <mj-section>
         <mj-column width="100%" padding="0">
@@ -196,6 +223,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
+
       <!-- Unsubscribe -->
       <mj-section padding-top="0">
         <mj-group>
